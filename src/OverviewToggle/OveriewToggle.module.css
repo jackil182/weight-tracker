@@ -1,0 +1,25 @@
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: .5rem;
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30%;
+  padding: .4rem 0;
+  text-decoration: none;
+  margin-left: 0.3rem;
+  /* border: 2px solid #90f58c; */
+  box-shadow: 0 2px 8px 2px #85fa81;
+
+  border-radius: 5px;
+  color: #7f2626;
+}
+
+.link:hover {
+  box-shadow: 0 2px 8px 2px #7f2626;
+
+}

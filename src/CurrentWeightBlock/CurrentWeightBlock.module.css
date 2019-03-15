@@ -1,0 +1,21 @@
+.block {
+  width: 45%;
+  min-height: 7rem;
+  /* border: 1px solid #ccc; */
+  border-radius: 5px;
+  padding: .5rem;
+  line-height: 1.8rem;
+  /* box-shadow: 0 2px 7px #7F2626; */
+}
+
+.block:hover {
+  box-shadow: 0 2px 7px #7F2626;
+  border: 1px solid transparent;
+
+}
+
+.number {
+  font-size: 2rem;
+  padding: 1rem;
+  color: #7F2626
+}

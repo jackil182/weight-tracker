@@ -1,0 +1,27 @@
+.ListItem {
+  display: flex;
+  justify-content: space-around;
+  /* background-color: #eee; */
+  margin-bottom: .3rem;
+}
+
+.ListItem > div {
+  /* border: 1px solid black; */
+  padding: 1rem 0rem;
+  margin-bottom: .2rem;
+}
+
+.date {
+  width: 44%;
+  color: #7F2626;
+  font-weight: 600;
+  border-radius: 5px;
+}
+
+.weight {
+  width: 20%;
+  color: #7F2626;
+  font-weight: 600;
+  border-radius: 50%;
+  background-color: #8bf5878f;
+}

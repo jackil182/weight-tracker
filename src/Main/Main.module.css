@@ -1,0 +1,8 @@
+.Main {
+  height: 100vh;
+  /* background-image: linear-gradient(to top, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.877) 30%), url('https://image.freepik.com/free-photo/fitness-background-with-equipment-yoga-mat_1357-230.jpg'); */
+  background-image: url('https://png.pngtree.com/thumb_back/fw800/back_pic/04/10/75/5058185fb15c0ae.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
